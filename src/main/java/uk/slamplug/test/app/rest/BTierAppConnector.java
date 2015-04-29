@@ -1,9 +1,9 @@
-package uk.slamplug.test.appsvr.rest;
+package uk.slamplug.test.app.rest;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.client.RestTemplate;
-import uk.slamplug.test.appsvr.model.CustomerDetails;
+import uk.slamplug.test.app.model.CustomerDetails;
 
 import java.io.IOException;
 

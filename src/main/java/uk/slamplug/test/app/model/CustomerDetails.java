@@ -1,4 +1,4 @@
-package uk.slamplug.test.appsvr.model;
+package uk.slamplug.test.app.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;

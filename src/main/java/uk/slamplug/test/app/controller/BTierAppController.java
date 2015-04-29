@@ -1,4 +1,4 @@
-package uk.slamplug.test.appsvr.controller;
+package uk.slamplug.test.app.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Controller;
@@ -8,8 +8,8 @@ import java.io.IOException;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import uk.slamplug.test.appsvr.model.CustomerDetails;
-import uk.slamplug.test.appsvr.rest.BTierAppConnector;
+import uk.slamplug.test.app.model.CustomerDetails;
+import uk.slamplug.test.app.rest.BTierAppConnector;
 
 @Controller
 @SuppressWarnings("UnusedDeclaration")
